@@ -1,4 +1,4 @@
-html { #  **Kortana80's Portfolio** :cupid:
+#  **Kortana80's Portfolio** :cupid:
  
  
 ### *Hello!* 
@@ -38,11 +38,3 @@ Feel free to reach me at
 fr0driguez229atstudent.alam0.edu
 
 ### *Thanks for stopping by!* 
-
-
-  background: url(https://github.com/kortana80/design/blob/master/FeliciaRodriguez_StillLife.jpg) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
