@@ -1,5 +1,4 @@
-plugins:
-  - jemoji
+plugins:- jemoji
   html { 
   background: url(https://github.com/kortana80/design/blob/master/FeliciaRodriguez_StillLife.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
