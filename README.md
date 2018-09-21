@@ -9,6 +9,7 @@ My name is Felicia. I'm taking college courses in Game Production and Animation.
 I have tinkered in digital art, 3-D animation, 3-D modeling and creating games using Adobe photoshop, Adobe Illustrator, Adobe Premiere, 3DS Max, Maya, Scratch, Unity, among others.
 This is an example of something original that I have created.
 ![original 3-D modeling](https://github.com/kortana80/design/blob/master/FeliciaRodriguez_StillLife.jpg)
+background-image: url(https://github.com/kortana80/design/blob/master/FeliciaRodriguez_StillLife.jpg)
 
 
 More examples of work created by me in 3-D and digital art as shown in the links below:
