@@ -1,15 +1,21 @@
-## Welcome to GitHub Pages
+#  **Kortana80's Portfolio** :cupid:
+ 
+ 
+### Hello! 
 
-You can use the [editor on GitHub](https://github.com/kortana80/kortana80.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Felicia. I'm taking college courses in Game Production and Animation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### *My Work* 
 
-### Markdown
+I have done some things, I will post here.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### *Contact Me*
 
-```markdown
-Syntax highlighted code block
+
+fr0driguez229atstudent.alam0.edu
+
+
+
 
 # Header 1
 ## Header 2
