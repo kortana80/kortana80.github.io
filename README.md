@@ -11,7 +11,7 @@ This is an example of something original that I have created.
 ![original 3-D modeling](https://github.com/kortana80/design/blob/master/FeliciaRodriguez_StillLife.jpg)
 
 
-More examples of work created by me in 3-D and digital art as shown in the links below:
+<p align="center"> More examples of work created by me in 3-D and digital art as shown in the links below:
 
 Photoshop and Scratch | 3DS Max & Maya 2018
 ------------ | -------------
@@ -38,7 +38,7 @@ Feel free to reach me at
 fr0driguez229atstudent.alam0.edu
 
 ### *Thanks for stopping by!* 
-
+</P>
 html { 
   background: url(https://github.com/kortana80/design/blob/master/FeliciaRodriguez_StillLife.jpg) no-repeat center center fixed; 
   -webkit-background-size: cover;
