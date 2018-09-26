@@ -1,7 +1,7 @@
 # Case Study: Heroku
 ## The various ways you could use Heroku to implement a CI solution
 
-#### Development Environment
+#### Development Environment > GitHub Integration
 
 ●Developers use this environment to do unit testing
 
@@ -9,7 +9,7 @@ For the development environment, Heroku integrates with GitHub to make it easy t
 
 
 
-#### QA Environment  HEROKU PRIVATE SPACES
+#### QA Environment > Heroku Private Spaces
 
 ●After code/build has been successfully built in development environment, code/build will be released to QA environment
 
@@ -17,7 +17,7 @@ Private Spaces are dedicated environments for running dynos and certain types of
 
 
 
-#### Staging / Pilot Environment
+#### Staging / Pilot Environment > Heroku CI
 
 ●After code is validated in QA, code is moved to the Staging environment also known as Pilot or Pre-Production environment
 
@@ -28,7 +28,7 @@ Heroku CI provides support for browser testing, or “user acceptance testing”
 
 
 
-#### Production Environment
+#### Production Environment > Release Phase
 
 ●After software has passed acceptance testing, code is moved to where the application or system will reside and host actual / real data (as opposed to test data) or is available on a publicly accessible network or server.
 
@@ -40,5 +40,5 @@ Running database schema migrations
 If a release phase task fails, the new release is not deployed, leaving the current release unaffected.
 
 
-I can use these for my next online game project.
+
 
