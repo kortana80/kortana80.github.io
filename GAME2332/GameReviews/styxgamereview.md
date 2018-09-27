@@ -21,5 +21,5 @@ shows you how to jump and climb walls and things that you must do for the remain
 
 # Final Thoughts
 
-When I came across this title, I had never even heard of it, but I found was a stealth game with good reviews, so I tried it. It was an 
+When I came across this title, I had never even heard of it, but I found that it was a stealth game with good reviews, so I tried it. It was an 
 easy game to get into, the controls are easy to use and everything is pretty self explanatary. This game did have a lot of cinematics, and I did notice some glitches, such as one of the guards robes when kind of haywire as he was walking away. The graphics are decent, definitly not as good as others but also not as bad as others.  I like stealth games, my favorite being Tom Clancys, Splinter Cell series and this one, for me, wasn't as good as that. It was a good game to try though but i'm not sure if I would play this game again.
